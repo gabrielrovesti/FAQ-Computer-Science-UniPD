@@ -1,4 +1,0 @@
-- Rinominare "Economy and management.." in "Economics and Management" dentro Fiup-Magistrale
-- Rimuovere "Slide PLI-Simplesso" da Fiup - Triennale
-- Rimuovere tutti i file doppi su Domande_Reti in Fiup-Triennale/Reti di Calcolatori/Appelli e tenere il più recente
-- Rimuovere tutte le slide "1/2/3_Lecture"... e tenere quelle "1/2/3_Lecture_Complete" in Fiup-Magistrale/Web Information Management/slides
