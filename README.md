@@ -3,7 +3,7 @@ A base repo as guide to have all of the info about enrolling and understanding t
 
 Here you will find:
 - FAQ Computer Science
-- - Added info about enrolling, courses, study plan, all about CS major
+  - Added info about enrolling, courses, study plan, all about CS major
 - MEGA Guide
   - What is Mega, how to enroll and how to solve common problems
 - Moodle and Lessons Download
