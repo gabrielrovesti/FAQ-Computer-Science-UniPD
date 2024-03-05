@@ -1,0 +1,15 @@
+- Collegarsi al sito https://www.studenti.math.unipd.it/aule/
+- A seconda se si è in Paolotti o in Torre Archimede, cliccare
+	- Print in Paolotti Labs
+	- Print in Torre Archimede
+- Mandare in stampa i file dal PC (File --> Print)
+- Collegarsi alla pagina https://print.torre.math.unipd.it/print
+- Inserire lo username e la password dell'aula informatica
+- Nella pagina di stampa si visualizzano le proprie stampe
+	- è così possibile stampare uno dei lavori o stamparli tutti
+	- è inoltre possibile cancellare i lavori che non si vogliano più stampare
+- Selezionare la stampante
+- Nella parte bassa della pagina sono presenti le code di stampa elaborate dalle stampanti.
+Qui rimane possibile cancellare i propri lavori da queste code. 
+
+Si consideri che si hanno a disposizione 400 stampe per trimestre. 
