@@ -1,0 +1,15 @@
+- Log on to https://www.studenti.math.unipd.it/aule/
+- Depending on whether you are in Paolotti or Archimedes Tower, click
+	- Print in Paolotti Labs
+	- Print in Archimedes Tower
+- Send files to print from your PC (File --> Print)
+- Log on to the https://print.torre.math.unipd.it/print page
+- Enter your computer classroom username and password.
+- On the print page you will see your printouts
+	- you can then print one of your jobs or print all of them
+	- you can also delete jobs that you no longer want to print
+- Select the printer
+- At the bottom of the page are the print queues processed by the printers.
+Here it remains possible to delete your jobs from these queues. 
+
+Consider that you have 400 prints available per quarter.
