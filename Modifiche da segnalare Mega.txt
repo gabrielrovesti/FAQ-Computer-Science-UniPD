@@ -1,0 +1,5 @@
+- Aggiungere il gruppo Deep Learning nostro - DM in FIUP Menu (ci sta solo quello del DEI): http://t.me/+dfz12sNv0r05YTIx
+
+- Togliere "MobileProgramming.pdf" da "Fiup-Magistrale" > "Mobile Programming and Multimedia" > "Notes", essendo che si riferisce ad un altro corso
+
+- Spostare in [OLD] la cartella Compilatori (DEI) in "Fiup-Magistrale"
