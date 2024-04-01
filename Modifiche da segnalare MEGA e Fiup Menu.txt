@@ -1,0 +1,25 @@
+Su FIUP Menu:
+
+- Aggiungere il gruppo Deep Learning nostro - DM in FIUP Menu (ci sta solo quello del DEI): http://t.me/+dfz12sNv0r05YTIx
+
+- Methods for big data è presente due volte:
+    - "Mathematical models and numerical methods for big data" è quello che deve rimanere
+
+Se i seguenti si possono fare, io li segnalo, diversi vedo che vorrebbero queste modifiche nel tempo:
+
+Andrebbero cambiati i nomi in FIUP Menu per la triennale e non confondere la gente:
+- Tecnologie Open Source -> Metodi e tecnologie per lo sviluppo software (MTSS)
+- Altri paradigmi/PCD -> Paradigmi di programmazione
+- Reti e sicurezza -> Reti di calcolatori
+
+Andrebbero aggiornati/modificati anche i nomi in FIUP Menu in inglese per:
+- Algoritmi Avanzati -> Advanced Algorithms
+- Apprendimento Automatico -> Machine Learning
+- Computabilità -> Computability
+- Economia dell'innovazione -> Economics and Management of Innovation
+- Linguaggi per il global computing -> Languages for Concurrency and Distribution (LCD)
+- Teoria dei Tipi -> Type Theory
+- Sistemi real time -> Real Time Systems and Kernels (RTS)
+- Mobile and IOT security -> Mobile Security
+- Computer and network security -> Advanced Topics in Computer and Network Security (ATCNS)
+
