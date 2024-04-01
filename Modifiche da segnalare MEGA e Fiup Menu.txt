@@ -23,3 +23,10 @@ Andrebbero aggiornati/modificati anche i nomi in FIUP Menu in inglese per:
 - Mobile and IOT security -> Mobile Security
 - Computer and network security -> Advanced Topics in Computer and Network Security (ATCNS)
 
+Su MEGA:
+
+- Spostare la cartella "Compilatori (DEI)" presente in "FIUP - Magistrale" dentro OLD essendo vecchia didattica ormai
+
+- In "FIUP - Magistrale" > "Mobile Programming and Multimedia"
+    - Spostare "Presentations/Exercises/In-depth slides" dentro un'unica cartella "Exam", per rendere più logica la cosa
+    - Il file "MobileProgramming" dentro "Notes" era riferito a quando c'era Bujari, converrebbe metterlo in una cartella "Old" per differenziare
