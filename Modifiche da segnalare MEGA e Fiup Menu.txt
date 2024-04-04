@@ -1,6 +1,12 @@
 Su FIUP Menu:
 
-- Aggiungere il gruppo Deep Learning nostro - DM in FIUP Menu (ci sta solo quello del DEI): http://t.me/+dfz12sNv0r05YTIx
+Da aggiungere:
+- Gruppo Deep Learning nostro - DM in FIUP Menu (ci sta solo quello del DEI): http://t.me/+dfz12sNv0r05YTIx
+- Gruppo "Advanced topics in Computer Science": https://t.me/+x8Z1Hn7IH9c4ODU8 
+- Gruppo "Cyber physical systems and IOT Security": http://t.me/+QN2HU0tdnYc3OWIx
+
+Da segnalare la presenza del gruppo generale di Computer Science in FIUP Menu:
+https://t.me/computerScienceUNIPD 
 
 - Methods for big data è presente due volte:
     - "Mathematical models and numerical methods for big data" è quello che deve rimanere
