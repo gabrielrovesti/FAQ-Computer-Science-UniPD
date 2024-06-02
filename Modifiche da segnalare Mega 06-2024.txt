@@ -1,0 +1,56 @@
+zb- MEGA
+
+> FIUP - Magistrale
+
+> Advanced Algorithms
+
+- In Exams > 2019-2020, cancellare la cartella 1^ appello
+- In Exams > 2021-2022, cancellare il file first appeal, c'è già la soluzione del prof
+- In Exams > 2022-2023, cancellare il file 2023-06-22, perché c'è la versione risolta (Exam_22-06-2023) e la cartella 2023-09-13 (poi carico io la versione merged in PDF in un solo file)
+- in Labs, cancellare Lab1,2,3, essendo presenti in 2019-2020
+
+- Selected topics in algorithms
+
+- Cancellare Lecture 5/6 da Lectures, sono fuori posto e già presenti in Lectures del 2023-2024
+
+> Methods and Models for Combinatorial Optimization
+
+- Rinominare la cartella con l'acronimo giusto, cioè MEMOCO
+- Rimuovere la cartella Notes e tenere solo la cartella Slides, che contiene le effettive lezioni
+
+> IT Service Management
+
+- Mettere i 4 file fuori dalle cartelle in una cartella Books e i due file relativi
+ad Exam nella cartella Exam
+
+> FIUP - Triennale
+
+> Automi e Linguaggi Formali
+
+- Da Esami > 2023-2024, togliere 230428 soluzioni, file di un anno prima e anche primoparzialesecondoturno
+- Da Esami > 2022-2023, togliere la cartella vuota 4 Appello
+
+- Rinominare [NEW] Bresolin togliendo l'anno di fine 2023
+
+> Probabilità e Statistica
+
+- Rinominare [NEW] Fischer togliendo l'anno di fine 2023
+- In Esami - 2023/2024, estrarre di una cartella tutti i file presenti (doppia cartella Esempi esame)
+
+> Basi di dati
+
+- Rinominare ad OLD la cartella di Sala
+
+> Programmazione ad Oggetti
+
+- Togliere la funzione Es_2 Funzione e tenere solo quella con modifica 15/02
+
+> Ricerca Operativa
+
+- Cancellare la soluzione "traccia_soluzione_ro230710" da 3 Appello 2022-2023, essendo riferita al 4 appello
+
+- Dentro a Corsi Opzionali > Altri corsi altre facoltà
+
+> Intelligenza Artificiale
+
+- Di recente, è stata aggiunta la cartella 2023-2024 da qualcuno, spostare tutto ciò che c'è fuori nella precedente 2016-2022
