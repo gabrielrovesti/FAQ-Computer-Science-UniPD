@@ -44,6 +44,8 @@ ad Exam nella cartella Exam
 > Programmazione ad Oggetti
 
 - Togliere la funzione Es_2 Funzione e tenere solo quella con modifica 15/02
+- All'interno di Tutti gli esercizi > Tutte le tipologie > Funzioni; sarebbe da chiamare Stamoa_Valori_Vettore_Soluzione.jpg come Stampa_Valori_Vettore, 
+mentre l'opposto per la soluzione (di base, nome sbagliato e sono invertiti testo e soluzione nel nome)
 
 > Ricerca Operativa
 
