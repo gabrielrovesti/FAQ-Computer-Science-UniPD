@@ -5,3 +5,16 @@ FIUP - Triennale
 - In [NEW] Baldan - Scquizzato > Esami > togliere il 2023 finale in Baldan - Scquizzato e lasciare [2019 - ] che si veda che ci sia ancora
 
 - In Esami - 2023-2024, cancellare la cartella vuota 2 Appello
+
+FIUP - Magistrale
+
+> Cryptography
+
+- In Exams > Ragguppa tutti i file in una cartella chiamata (OLD)
+
+- In Lectures, raggruppare tutto il materiale presente in una cartella unica chiamata 2023-2024
+
+> Process Mining
+
+- In Exams, raggruppare gli esami per anno (si capisce per tutti in base al nome; Exam Example è 2021-2022)
+
