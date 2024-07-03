@@ -18,3 +18,6 @@ FIUP - Magistrale
 
 - In Exams, raggruppare gli esami per anno (si capisce per tutti in base al nome; Exam Example è 2021-2022)
 
+> Mobile Programming e Multimedia
+
+- In Exam, cancellare il file "Advices for a better mark"; l'ho già messo nel corso giusto, non doveva essere qui
