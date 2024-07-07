@@ -14,10 +14,18 @@ FIUP - Magistrale
 
 - In Lectures, raggruppare tutto il materiale presente in una cartella unica chiamata 2023-2024
 
-> Process Mining
-
-- In Exams, raggruppare gli esami per anno (si capisce per tutti in base al nome; Exam Example è 2021-2022)
-
 > Mobile Programming e Multimedia
 
 - In Exam, cancellare il file "Advices for a better mark"; l'ho già messo nel corso giusto, non doveva essere qui
+
+> Law and Data
+
+- Chiamare la cartella "Nptes" in "Notes"
+
+> Formal methods for cyber-physical systems
+
+- In Exams, cambiare il nome della cartella "2023-2034" in "2023-2024"
+
+> Artificial Intelligence
+
+- Rinominare la cartella "Lessons summary" in "Notes"
