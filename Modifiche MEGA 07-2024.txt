@@ -29,3 +29,11 @@ FIUP - Magistrale
 > Artificial Intelligence
 
 - Rinominare la cartella "Lessons summary" in "Notes"
+
+> Deep Learning
+
+- In Exams, rinominare correttamente la cartella "2022-202" in "2022-2023"
+
+> Machine Learning
+
+- Spostare il file "ML_Summary_merged" dentro "Summaries and Notes" ed eliminare ML_Summary da lì (sta già nell'altra cartella)
