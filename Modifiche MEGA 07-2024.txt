@@ -6,6 +6,19 @@ FIUP - Triennale
 
 - In Esami - 2023-2024, cancellare la cartella vuota 2 Appello
 
+> Reti
+
+- In Appelli - 2023-2024, cancellare tutti i file Appelli-2024 duplicati e cancellare 
+il primo file 4 Appello 2024
+
+- Togliere i vari duplicati di Domande Reti Aggiornate lasciando il più recente in termini di modifica
+
+- Programmazione ad Oggetti
+
+- In Esami - 2023-2024 - 1 Appello, eliminare il file Es1_Cosa_Stampa.cpp e tenere solo l'altro (1).cpp
+
+- In Esami - 2023-2024 - 2 Appello, tenere solo il file Es1_Funzione_Corretta, cancellando gli altri 3
+
 FIUP - Magistrale
 
 > Cryptography
