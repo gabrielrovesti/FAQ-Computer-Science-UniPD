@@ -8,8 +8,7 @@ FIUP - Triennale
 
 > Reti
 
-- In Appelli - 2023-2024, cancellare tutti i file Appelli-2024 duplicati e cancellare 
-il primo file 4 Appello 2024
+- In Appelli - 2023-2024, cancellare tutti i file Appelli-2024 duplicati e il file 4 Appello 2024 con data di modifica 04/07, lasciando quello con 12/07
 
 - Togliere i vari duplicati di Domande Reti Aggiornate lasciando il più recente in termini di modifica
 
