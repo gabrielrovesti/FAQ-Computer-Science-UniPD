@@ -6,6 +6,10 @@ FIUP - Triennale
 
 - In Esami - 2023-2024, cancellare la cartella vuota 2 Appello
 
+> Programmazione 
+
+- In [NEW] Ballan - Da San Martino > Esami > togliere il 2023 finale e lasciare [2021 - ] che si veda che ci sia ancora
+
 > Reti
 
 - In Appelli - 2023-2024, cancellare tutti i file Appelli-2024 duplicati e il file 4 Appello 2024 con data di modifica 04/07, lasciando quello con 12/07
@@ -28,7 +32,7 @@ FIUP - Magistrale
 
 > Mobile Programming e Multimedia
 
-- In Exam, cancellare il file "Advices for a better mark"; l'ho già messo nel corso giusto, non doveva essere qui
+- In Exam, cancellare il file "Advices for a better mark"; l'ho già messo nel corso giusto, non doveva essere qui il file con questo nome
 
 > Law and Data
 
@@ -49,3 +53,7 @@ FIUP - Magistrale
 > Machine Learning
 
 - Spostare il file "ML_Summary_merged" dentro "Summaries and Notes" ed eliminare ML_Summary da lì (sta già nell'altra cartella)
+
+> Security and Risk - Management and Certifications
+
+- Rinominare "(NEW) Simone Soderi" in "(NEW) Soderi - Belli"
