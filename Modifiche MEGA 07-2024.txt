@@ -1,6 +1,7 @@
-FIUP - Triennale
+---------------------- FIUP - Triennale 
+----------------------
 
-> Algoritmi
+> Algoritmi e Strutture Dati
 
 - In [NEW] Baldan - Scquizzato > Esami > togliere il 2023 finale in Baldan - Scquizzato e lasciare [2019 - ] che si veda che ci sia ancora
 
@@ -16,13 +17,24 @@ FIUP - Triennale
 
 - Togliere i vari duplicati di Domande Reti Aggiornate lasciando il più recente in termini di modifica
 
-- Programmazione ad Oggetti
+> Programmazione ad Oggetti
 
 - In Esami - 2023-2024 - 1 Appello, eliminare il file Es1_Cosa_Stampa.cpp e tenere solo l'altro (1).cpp
 
 - In Esami - 2023-2024 - 2 Appello, tenere solo il file Es1_Funzione_Corretta, cancellando gli altri 3
 
-FIUP - Magistrale
+> Automi e Linguaggi Formali
+
+- In Esami - 2021 - 2022, rinominare correttamente "2° Appeelo" in "2° Appello"
+
+> Calcolo Numerico
+
+- In Laboratorio - (NEW) Elefante - Esami, spostare tutto da 1 a 4 Appello nella cartella 2022-2023 e rinominare, dentro 2023-2024, la cartella 3 Appello in "1 Appello", togliendo il README
+
+- In Teoria - Appelli, cancellare il file "frequenza domande", ha dei caratteri rotti dentro
+
+---------------------- FIUP - Magistrale 
+----------------------
 
 > Cryptography
 
@@ -60,4 +72,4 @@ FIUP - Magistrale
 
 > WIM - Web Information Management
 
-- In Exams - Questions in English, mettere per ordine tutto ciò che è presente nella cartella in 2023-2024
+- In Exams - Questions in English, mettere tutto ciò che è presente nella cartella in una cartella apposita chiamata "2023-2024"
