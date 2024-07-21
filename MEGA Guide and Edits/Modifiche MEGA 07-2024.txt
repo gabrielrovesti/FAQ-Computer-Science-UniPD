@@ -33,6 +33,10 @@
 
 - In Teoria - Appelli, cancellare il file "frequenza domande", ha dei caratteri rotti dentro
 
+> Stage e Tesi 
+
+Cancellare il file FAQ Stage e Tesi che carico la versione più recente ed aggiornata io.
+
 ---------------------- FIUP - Magistrale 
 ----------------------
 
