@@ -77,3 +77,21 @@ Cancellare il file FAQ Stage e Tesi che carico la versione più recente ed aggio
 > WIM - Web Information Management
 
 - In Exams - Questions in English, mettere tutto ciò che è presente nella cartella in una cartella apposita chiamata "2023-2024"
+
+> Economics and Management of Innovation
+
+- Rinominare la cartella in "Economics and Management of Innovation (EMI)"
+
+- Dentro 2023-2024, cancellare il file "Moodle STEM Key", lasciare quello corretto (cioè, quello con l'1 nel nome) e rinominarlo opportunamente
+
+> Mobile Security
+
+- In Exams, togliere il file "Possible solution exam samples" e inserire tutti i file (exams/exams samples/exam_example_solution) in una cartella unica chiamata "Exam examples"
+
+> Mobile Programming and Multimedia 
+
+- Rinominare la cartella in "Mobile Programming and Multimedia (MPM)"
+
+> Advanced Topics in Programming Languages 
+
+- Spostare la cartella in OLD dato che l'insegnamento non viene più tenuto attualmente
