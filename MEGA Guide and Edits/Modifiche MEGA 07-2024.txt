@@ -95,3 +95,11 @@ Cancellare il file FAQ Stage e Tesi che carico la versione più recente ed aggio
 > Advanced Topics in Programming Languages 
 
 - Spostare la cartella in OLD dato che l'insegnamento non viene più tenuto attualmente
+
+> Wireless Networks for Mobile Applications
+
+- Dentro la cartella Projects
+
+    - WNMA Projects1 e 2 spostarli in una cartella "Reference slides"
+    - Cancellare la cartella Relations
+    - Mettere tutti i file di tipo .pdf in una cartella chiamata "Essays"
